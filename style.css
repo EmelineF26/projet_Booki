@@ -1,0 +1,114 @@
+.img {
+    width: 80px;
+    height: auto;
+    margin-left: 20px;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    height: 19px;
+    width: 381px;
+    left: 982px;
+    top: 48px;
+    border-radius: 0px;
+}
+
+#Activites {
+    height: 19px;
+    width: 63px;
+    left: 318px;
+    top: 0px;
+    font-family: 'Raleway';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #000000;
+}
+
+.haut {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin-left: 40px;
+    list-style: none;
+}
+
+#MarseilleAccomodations {
+    width: 94%;
+	margin: 30px 20px 50px 24px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.titrebox {
+    margin: 6px 0px 0px 25px;
+}
+
+.appartement {
+    background-color: rgb(255,255,255);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 20px;
+	border: 4px solid white;
+}
+
+.imageappart {
+    border-radius: 20px 20px 0px 0px;
+    height: 124px;
+    width: 246px;
+    left: 0px;
+    top: 0px;
+}
+
+#MostPopular {
+    background-color: rgb(217, 217, 217);
+    border-radius: 20px;
+    height: 625px;
+    width: 420px;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.infos_hebergements {
+    background-color: rgb(255,255,255);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 20px;
+	border: 4px solid white;
+}
+
+.titrehebergement {
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 12px;
+	margin-top: 12px;
+	line-height: 1em;
+}
+
+.prixhebergement {
+	font-size: 14px;
+	font-weight: normal;
+	margin-left: 12px;
+	margin-bottom: 12px;
+	line-height: 0.5em;
+}
