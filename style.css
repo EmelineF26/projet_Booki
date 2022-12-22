@@ -51,9 +51,14 @@ li {
 
 #MarseilleAccomodations {
     width: 94%;
-	margin: 30px 20px 50px 24px;
+    margin: 30px 20px 50px 24px;
 	display: flex;
 	justify-content: space-between;
+    background-color: rgb(217, 217, 217);
+    height: 626px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
 }
 
 .titrebox {
